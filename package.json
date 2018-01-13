@@ -1,0 +1,9 @@
+{
+  "name": "flappy-bird-html5",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
